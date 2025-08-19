@@ -1,0 +1,231 @@
+What is CMI ?;CMI stands for Configuration Management cockpit, used for managing aircraft configurations.
+How to reset the system?;To reset the system, press the reset button for 10 seconds.
+What are the main features of CMI?;The main features of CMI include real-time monitoring, configuration tracking, and automated reporting.
+How to access the user manual?;You can access the user manual in the 'Documentation' section on our website.
+how to navigate to checker; Here are the direct and concise answers:\n\n1. To access the Checker tab, go to the \"Checker\" section.\n2. The Checker tab is currently under development and not yet available for use.
+how to navigate to Browser; To navigate to the Browser, you can click on the \"Parts\" button within the Landing Module. \n\nIf you don't have permission, a toast message will be displayed asking you to contact admins.\n\nAfter 5 seconds, your session will be logged out and all cache and local storage will be cleared.
+what is ACR in CMI; ACR stands for Aircraft Configuration Report which is directly coming from the Aircraft
+How to navigate to checker module?; To navigate to the Checker tab, you can click on the login page after that on the top panel click on the Checker Tab
+what is PNR?; PNR stands for Part Number Report. It's a report that provides information about the aircraft part numbers and their corresponding configurations, used for maintenance and other purposes within the Configuration Cockpit application
+what is part number in configuration cockpit management; PNR stands for Part Number Report. It's a report that provides information about the aircraft part numbers and their corresponding configurations, used for maintenance and other purposes within the Configuration Cockpit applicationUser Question: what is part number
+AI Response: 1. The answer to the question "What is part number" is not explicitly stated in the provided context, but it can be inferred that part numbers are used for identification purposes and are likely related to the Airbus configuration.
+
+User Question: what is part number
+AI Response: 1. You don't know the answer to this question as there's no direct information provided in the context about what "part number" refers to or how it's related to the Airbus configuration.
+
+User Question: what is part number
+AI Response: 1. The correct answer to the question "What is part number" is not explicitly stated in the provided text.
+2. The query name Dataset name Columns Source type for the part number column is q_actual_configacr_fin_filter/mis_fin_filterid_aircraft,function_position_identifier_label,part_number,description,ata,configuration_date,aircraft(filter only),source_operator(filter only).
+3. The answer to the question "What is part number" is not provided in the query name Dataset name Columns Source type for the part number column.
+
+User Question: what is part number
+AI Response: The answer to the question "What is part number?" is not explicitly stated in the provided context. However, based on the query name "q_actual_configacr_fin_filter/mis_fin_filterid_aircraft", it appears that the query is related to configuration data for Airbus aircraft.
+
+From this information, we can infer that the part number is likely a unique identifier used to track and manage specific parts or components in an Airbus aircraft.
+
+User Question: what is CMI
+AI Response: Here are direct and concise answers to your questions:
+
+1. a. CMIS (Common Information Model) - The standard for exchanging data between systems.
+2. b. Cognito Authentication - A user authentication system used by AWS, which enables users to access the application securely.
+3. 6. CMi-S Browser: Filters Data Flow - Retrieves and populates Operator Filter dropdown and Aircraft Type Filter based on user selection in a browser tab.
+
+Let me know if you have any further questions or need more information!
+
+User Question: what is CMI
+AI Response: The question seems to be related to the CMIS (Cloud Management Information System) module, but it appears that there are multiple modules mentioned in the context. However, based on the provided information, I will focus on the CMIS module.
+
+CMIS stands for Cloud Management Information Service, which is a cloud-based platform for managing and analyzing data from various sources, including aircraft systems.
+
+The question seems to be asking about the purpose or function of the CMIS module in the context of Airbus. Based on the provided information, it appears that the CMIS module is responsible for:
+
+1. Determining which modules a user has access to based on their permissions.
+2. Rendering all three modules (Browser, Checker, and ACM) for users with specific permissions.
+3. Displaying different modules depending on the user's role or permission level.
+
+The question also mentions that the CMIS module is used in conjunction with other modules, such as Cognito Authentication, AWS Cognito, and FLI (Flights Line Interface), to provide a comprehensive platform for managing and analyzing data from various sources.
+
+Therefore, based on this information, I will answer:
+
+a.
+
+User Question: what is CMI
+AI Response: The correct answer to the question "What is CMi-S?" is:
+
+b. CMi-S (Cognitive Management and Information System)
+
+CMi-S is a cognitive management system developed by Airbus, which provides a comprehensive platform for managing aircraft data, including flight planning, navigation, and other relevant information.
+
+User Question: what is CMI
+AI Response: The correct answer to the question "What is CMi-S?" is:
+
+c. CMi-S Browser: Filters Data Flow
+
+CMi-S (Cognitive Management and Information System) is a web-based application developed by Airbus, which provides a comprehensive platform for managing aircraft data, including flight planning, navigation, and other relevant information.
+
+The provided document mentions that CMi-S includes the following modules:
+
+* Browser
+* Checker (root module)
+* ACM (Advanced Cockpit Management)
+
+These modules are used to render different components of the application for users with specific permissions.
+
+User Question: what is FIN number
+AI Response: * The FIN number is the unique identifier for each Financial Instrument (FIN) in the database.
+* It can be found in the "FIN" column of the table.
+
+User Question: what is FIN number
+AI Response:  functiona function_position_identifier_label
+
+User Question: what is FIN number
+AI Response:  functional position identifier in athe aircraft
+
+User Question: what is FIN number
+AI Response:  functional position identifier in athe aircraft
+
+User Question: what is FIN number
+AI Response:  functional position identifier in the aircraft
+
+User Question: what is Foundry data
+AI Response: Foundry data refers to the upstream data sources that will be fed into the application for replication and analysis.
+
+User Question: what is Foundry data
+AI Response: Foundry data refers to the core Skywise application's data sources. It will be fed by upstream data sources and analyzed in real-time using multiple joins across different data tables.
+
+User Question: what is pnr
+AI Response:  PNR stands for Part Number Report. It's a report that provides information about the aircraft part numbers and their corresponding configurations, used for maintenance and other purposes within the Configuration Cockpit application
+
+User Question: what is pnr
+AI Response:  PNR stands for Part Number Report. It's a report that provides information about the aircraft part numbers and their corresponding configurations, used for maintenance and other purposes within the Configuration Cockpit application
+
+User Question: what is pnr
+AI Response:  PNR stands for Part Number Report. It's a report that provides information about the aircraft part numbers and their corresponding configurations, used for maintenance and other purposes within the Configuration Cockpit application
+
+User Question: how to navigate to browser module
+AI Response: a. You can navigate to the Browser module by clicking on its icon in the tab bar, or by typing 'browser' in the search bar at the top of the page.
+
+b. This is not provided in the given context, as there is no mention of a "Search Bar" or any other way for users to access the Browser module directly.
+
+c. You can navigate to the ACM (Access Control Module) tab by clicking on its icon in the tab bar, and then navigating to 'Modules' > 'ACM'.
+
+User Question: how to navigate to browser module
+AI Response: a. You can access the Browser module by navigating to `https://<your-app-id>.cognito-identity.us-east-1.amazonaws.com/` in your web browser.
+
+b. The user cannot directly access the ACM (Access Control Management) module, but they can access it through the Checker module as a root entry point.
+
+c. You don't know because the provided information does not mention how to navigate to the ACM module.
+
+3. CMIs Browser Tab End to End Architecture
+   1. Backend Design for CMIs
+     - Cognito Authentication:
+       - Infra setup: AWS Cognito (Deployed as part of Frontend Deployment Stack)
+       - User pool creation
+       - User pool client creation
+       - User pool domain creation
+
+This endpoint is enabled with caching and for security we have created API key to use it.
+This endpoint in turn will provide the response to the 1st Service layer.
+/api/mocksas is the temporary service we will be using to get the SAS mock response.
+
+Once the Actual SAS API is available to use we will switch to SAS API service.
+
+User Question: how to navigate to browser module
+AI Response: "a. You can navigate to the Browser module by clicking on its icon in the tab bar, or by typing 'browser' in the search bar at the top of the page.\n\nb. This is not provided in the given context, as there is no mention of a \"Search Bar\" or any other way for users to access the Browser module directly.
+
+User Question: how to navigate to browser module
+AI Response: "a. You can navigate to the Browser module by clicking on its icon in the tab bar, or by typing 'browser' in the search bar at the top of the page.\n\nb. This is not provided in the given context, as there is no mention of a \"Search Bar\" or any other way for users to access the Browser module directly.
+
+User Question: how to navigate to ACM module
+AI Response:  You can navigate to the ACM (Access Control Module) tab by clicking on its icon in the tab bar, and then navigating to 'Modules' > 'ACM'.",
+
+User Question: how to navigate to acm module
+AI Response:  You can navigate to the ACM (Access Control Module) tab by clicking on its icon in the tab bar, and then navigating to 'Modules' > 'ACM'.",
+
+User Question: how to navigate to acm module
+AI Response:  You can navigate to the ACM (Access Control Module) tab by clicking on its icon in the tab bar, and then navigating to 'Modules' > 'ACM'.",
+
+User Question: how to navigate to acm
+AI Response: You can navigate to ACM by typing "ACM" in the search bar or menu. It's usually located under the "Settings" or "Preferences" section of your device.
+
+User Question: how to navigate to parts
+AI Response: To navigate to parts, you can follow these steps:
+
+1. Go to Browser in Parts.
+2. Select the "Parts" tab from the top menu.
+3. You will be able to view and manage all parts for a selected MSN or set of MSNs.
+
+User Question: how to navigate to parts
+AI Response: To navigate to parts, you can follow these steps:
+
+1. Go to Browser in Parts.
+2. Select the "Parts" tab from the top menu bar.
+3. You will then see a list of available parts with their configuration details.
+
+If you are looking for specific information or have questions about a particular part, you can also search by functional identification.
+
+User Question: how to navigate to CMI
+AI Response: You can access the CMI project through the following direct links:
+
+* Upload history: https://cmi-fli.org/upload-history/
+* Status: https://cmi-fli.org/status/
+* Transformation from CMI-S dev team: https://cmi-fli.org/transform-from-cmis-dev-team
+
+User Question: what is CMI
+AI Response:  CMI stands for Configuration Management cockpit, used for managing aircraft configurations.
+
+User Question: what is MIS
+AI Response: MIS stands for Management Information System, which refers to a computer-based system that collects, processes, and analyzes data from various sources to support business decision-making.
+
+User Question: what is MIS
+AI Response: MIS stands for Management Information System, which refers to a computer-based system that collects, processes, and analyzes data from various sources to support business decision-making.
+
+User Question: what is MIS in cmis
+AI Response: For CMIS (Common Information Model), the following answers apply:
+
+1. CMIS stands for Common Information Model, which provides a standardized way of describing and accessing information resources on a server.
+2. CMIS is not directly related to MIS (Management Information System).
+3. CMIS is used in conjunction with other systems, such as SharePoint or Google Apps Script, to provide a unified interface for managing and sharing information.
+
+User Question: what is
+AI Response: I'm ready to help. What's the question?
+
+User Question: what is CMI
+AI Response:  CMI stands for Configuration Management cockpit, used for managing aircraft configurations.
+
+User Question: who am I
+AI Response: You are a user of the CMI project, which is likely a collaborative environment for creating and managing content, such as documentation, FAQs, or knowledge bases.
+
+User Question: what is CMI
+AI Response:  CMI stands for Configuration Management cockpit, used for managing aircraft configurations.
+
+User Question: what is CMI
+AI Response:  CMI stands for Configuration Management cockpit, used for managing aircraft configurations.
+
+User Question: How to navigate to parts
+AI Response: To navigate to parts, you can follow these steps:\n\n1. Go to Browser in Parts.\n2. Select the \"Parts\" tab from the top menu.\n3. You will be able to view and manage all parts for a selected MSN or set of MSNs.
+
+User Question: How to navigate to parts in Configuration cockpit
+AI Response: To navigate to parts in the Configuration Cockpit, use the "Parts" tab at the top of the screen. You can also search for specific parts by typing their names or IDs in the search bar.
+
+User Question: How to navigate to parts module
+AI Response: To navigate to parts, you can follow these steps:\n\n1. Go to Browser in Parts.\n2. Select the \"Parts\" tab from the top menu.\n3. You will be able to view and manage all parts for a selected MSN or set of MSNs.
+
+User Question: How to navigate to parts
+AI Response: To navigate to parts, you can follow these steps:\n\n1. Go to Browser in Parts.\n2. Select the \"Parts\" tab from the top menu.\n3. You will be able to view and manage all parts for a selected MSN or set of MSNs.
+
+User Question: How to navigate to browser
+AI Response:  To navigate to the Browser, you can click on the \"Parts\" button within the Landing Module. \n\nIf you don't have permission, a toast message will be displayed asking you to contact admins.\n\nAfter 5 seconds, your session will be logged out and all cache and local storage will be cleared.
+
+User Question: what is CMI ?
+AI Response:  CMI stands for Configuration Management cockpit, used for managing aircraft configurations.
+
+User Question: what
+AI Response: I'm ready to help. What is your question?
+
+User Question: CMI
+AI Response: The FLI CMI project is a transformation of the CMI-S Dev Team. I don't have information on what "CMI" refers to in this context, so I'll say I don't know for now.
+
+User Question: what is NIS
+AI Response: I don't know the answer to that question. The provided information does not mention "NIS".
+

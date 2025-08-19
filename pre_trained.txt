@@ -1,0 +1,17 @@
+What is CMI; CMI stands for Configuration Management cockpit, used for managing aircraft configurations.
+How to reset the system?;To reset the system, press the reset button for 10 seconds.
+What are the main features of CMI?;The main features of CMI include real-time monitoring, configuration tracking, and automated reporting.
+How to access the user manual?;You can access the user manual in the 'Documentation' section on our website.
+how to navigate to checker; Here are the direct and concise answers:\n\n1. To access the Checker tab, go to the \"Checker\" section.\n2. The Checker tab is currently under development and not yet available for use.
+how to navigate to Browser; To navigate to the Browser, you can click on the \"Parts\" button within the Landing Module. \n\nIf you don't have permission, a toast message will be displayed asking you to contact admins.\n\nAfter 5 seconds, your session will be logged out and all cache and local storage will be cleared.
+what is ACR; ACR stands for Aircraft Configuration Report which is directly coming from the Aircraft
+How to navigate to checker module?; To navigate to the Checker tab, you can click on the login page after that on the top panel click on the Checker Tab
+what is PNR?; PNR stands for Part Number Report. It's a report that provides information about the aircraft part numbers and their corresponding configurations, used for maintenance and other purposes within the Configuration Cockpit application
+what is part number in configuration cockpit management; PNR stands for Part Number Report. It's a report that provides information about the aircraft part numbers and their corresponding configurations, used for maintenance and other purposes within the Configuration Cockpit application
+what is part number; PNR stands for Part Number Report. It's a report that provides information about the aircraft part numbers and their corresponding configurations, used for maintenance and other purposes within the Configuration Cockpit application
+what is FIN number; functional position identifier in the aircraft
+"How to navigate to browser module";"a. You can navigate to the Browser module by clicking on its icon in the tab bar, or by typing 'browser' in the search bar at the top of the page.\n\nb. This is not provided in the given context, as there is no mention of a \"Search Bar\" or any other way for users to access the Browser module directly.
+"How to navigate to ACM module"; You can navigate to the ACM (Access Control Module) tab by clicking on its icon in the tab bar, and then navigating to 'Modules' > 'ACM'.",
+"How to navigate to parts module";To navigate to parts, you can follow these steps:\n\n1. Go to Browser in Parts.\n2. Select the \"Parts\" tab from the top menu.\n3. You will be able to view and manage all parts for a selected MSN or set of MSNs.
+"How to navigate to parts";To navigate to parts, you can follow these steps:\n\n1. Go to Browser in Parts.\n2. Select the \"Parts\" tab from the top menu.\n3. You will be able to view and manage all parts for a selected MSN or set of MSNs.
+"What is MIS";MIS stands for Management In Service
